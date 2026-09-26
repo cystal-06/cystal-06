@@ -1,15 +1,13 @@
 Hi there. ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is CongDuc
 ======================================================================================================================================
 
-Currently, I am a student, and in the future I want to be a full stack developer
+Currently, I am a student, and in the future I want to be a mobile developer
 --------------------------------------------------------------------------------
 
 I started learning programming in July 2024. It's tough for me and I will try to continue with my passion and become a good programmer.
 
 * 🌍  I'm based in Quangtri Vietnam
 * ✉️  You can contact me at [Duccongnguyen086@gmail.com](mailto:Duccongnguyen086@gmail.com)
-* 🧠  I'm learning C++ and Javascript
-* ⚡  The color that I love is: "color: hsl(195, 74%, 56%);"
 
 ### Skills
 
